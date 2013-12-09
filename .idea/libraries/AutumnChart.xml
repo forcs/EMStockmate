@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="AutumnChart">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../MyApplicationProject/AutumnChart" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../MyApplicationProject/AutumnChart/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
